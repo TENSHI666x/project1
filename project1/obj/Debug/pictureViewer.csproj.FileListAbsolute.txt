@@ -1,0 +1,12 @@
+C:\Users\29303514\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\29303514\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\29303514\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\pictureViewer.csprojAssemblyReference.cache
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\pictureViewer.csproj.GenerateResource.cache
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\pictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\project1.pdb
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\project1.Author.resources
+C:\Users\29303514\source\repos\project1\project1\obj\Debug\project1.AboutBox1.resources
